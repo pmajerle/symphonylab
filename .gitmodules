@@ -25,3 +25,6 @@
 [submodule "extensions/html5_doctype"]
 	path = extensions/html5_doctype
 	url = git://github.com/pmajerle/html5_doctype.git
+[submodule "extensions/subsectionmanager"]
+	path = extensions/subsectionmanager
+	url = git://github.com/hananils/subsectionmanager.git
